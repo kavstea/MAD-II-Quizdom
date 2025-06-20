@@ -73,7 +73,11 @@ python app.py
 - Make sure Redis is running (default: `localhost:6379`)
 - Start Celery worker:
 ```
-celery -A backend.worker.celery worker --beat --loglevel=info
+celery -A app.celery worker --loglevel=info
+
+celery -A app.celery beat --loglevel=info
+
+mailhog
 ```
 ---
 
