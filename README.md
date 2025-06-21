@@ -1,5 +1,5 @@
 # Quizdom-V2
-A Flask + VueJS-based full-stack quiz management system. It introduces new features like exporting results, daily and monthly scheduled reminders, and support for both single and multiple quiz attempts, building on the original functionalities.
+A Flask + VueJS-based quiz management system. It introduces new features like exporting results, daily and monthly scheduled reminders, and support for both single and multiple quiz attempts, building on the original functionalities.
 
 **Grade:**
 
