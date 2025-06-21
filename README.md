@@ -12,7 +12,7 @@ A Flask + VueJS-based full-stack quiz management system. It introduces new featu
 
 ## **Project Structure**
 ```
-PROJECT_MAD2/
+Quizdom-V2/
 │
 ├── backend/
 │   ├── __pycache__/
