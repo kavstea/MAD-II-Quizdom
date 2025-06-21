@@ -3,8 +3,8 @@ A Flask + VueJS-based full-stack quiz management system. It introduces new featu
 
 **Grade:**
 
-**[Live Link](https://quizdom-v2.onrender.com/) (demo/testing only)**
-: For best display on mobile switch to desktop view + landscape mode.
+**[Live Link](https://quizdom-v2.onrender.com/) (demo/testing only):**
+**For best display on mobile switch to desktop view + landscape mode.**
 
 
 ---
