@@ -3,9 +3,6 @@ A Flask + VueJS-based quiz management system. It introduces new features like ex
 
 **[Live Link for Demo/Testing](https://quizdom-v2.onrender.com/)** 
 
-(For best display on mobile: desktop view + landscape mode)
-
-
 ---
 
 ## **Project Structure**
