@@ -144,6 +144,8 @@ npm run dev
 - **frontend/src/App.vue** and **main.js**: Main entry point and root Vue component.
 - **frontend/public/** and **assets/**: Static files, images, and icons.
 - **frontend/vite.config.js**: Vite build tool configuration for fast development.
+  
+---
 
 <div align="center">
   <em>---x---</em>
